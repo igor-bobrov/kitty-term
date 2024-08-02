@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 
-sudo pacman -Sy kitty
+sudo pacman -Sy kitty --noconfirm
 
 # Конфиг kitty
 mkdir -p ~/.config/kitty
