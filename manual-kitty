@@ -1,0 +1,21 @@
+#!/bin/bash
+cat << "EOF"
+manual kitty
+
+ctrl + shift + enter    -> новое отделение
+ctrl + shift + w        -> закрыть отделение
+
+Ctrl + Shift + T        -> new tab
+Ctrl + Shift + Q        -> Close tab
+Ctrl + Shift + Right    -> Next tab
+Ctrl + Shift + Left     -> Prev tab
+
+Ctrl + Shift + Enter    -> Window split
+Ctrl + Shift + W        -> Close window
+Ctrl + Tab              -> Next window
+Ctrl + Shift + Tab      -> Previous window
+
+Ctrl + Shift + C        -> Copy to clipboard
+Ctrl + Shift + V        ->Paste from clipboard
+
+EOF
